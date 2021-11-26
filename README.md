@@ -11,7 +11,7 @@ npm i https://github.com/voffkin/vue-sip-slider.git
 
 main.js
 ```
-import { Slider, Slide } from './plugins/Slider';
+import { Slider, Slide } from 'vue-sip-slider';
 import {tns}  from "../node_modules/tiny-slider/src/tiny-slider"
 import '../node_modules/tiny-slider/dist/tiny-slider.css'
 
